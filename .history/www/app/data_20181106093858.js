@@ -1,4 +1,4 @@
-define(function () {
+define(['jquery'], function (jquery) {
     const data = [
         "Edmund Wright", 
         "Alexandra Flores",
